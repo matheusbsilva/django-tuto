@@ -1,3 +1,7 @@
 *.swp
 *.sqlite3
-*/__pycache__/
+__pycache__/
+
+# Migrations
+
+000*.py
